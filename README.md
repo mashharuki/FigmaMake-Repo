@@ -7,7 +7,9 @@ Figma Makeについて
 V0に近いイメージ、ホスティングも一瞬
 
 ## 参考文献
+- [Figma make](https://www.figma.com/make/)
 - [FigBuild 2026](https://figbuild2026.devpost.com/)
 - [Tutorial - Figma for Edu: Figma Make for Edu を使い始める](https://www.youtube.com/watch?v=4aWPJGsTveU)
 - [Makathon](https://www.youtube.com/watch?v=fEabnHMqFBs)
 - [8th wall - Examples](https://github.com/8thwall/8thwall/tree/main/examples#readme)
+- [プロンプトの例](Figma Make prompts, with real examples)
